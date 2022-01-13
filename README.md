@@ -1,1 +1,1 @@
-# UAV-dataset
+# UAV-datasetThe UAV dataset is composed of forty color sequences and are labeled using the same attributes as OTB-100. The UAV dataset concentrate much on the localization of the target which is quite di↵erent from OTB-100. Consequently, the inherent details of the target object captured by UAV cameras are very few.
